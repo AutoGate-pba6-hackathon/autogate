@@ -1,4 +1,8 @@
-**Project Title:** Automatic KYC’d Gatekeeping Layer for Compliant DeFi on Polkadot
+# AutoGate
+## Automatic KYC’d Gatekeeping Layer for Compliant DeFi on Polkadot
+
+Check our [hot site](https://genuine-bombolone-6478f6.netlify.app/).
+
 
 ### **Overview:**
 
